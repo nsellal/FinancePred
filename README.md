@@ -60,7 +60,7 @@ Ces résultats sont cohérents avec l'**hypothèse d'efficience des marchés** :
 ## Reproduire
 
 ```bash
-git clone https://github.com/<ton-pseudo>/FinancePred.git
+git clone https://github.com/<nsellal>/FinancePred.git
 cd FinancePred
 python3 -m venv venv
 source venv/bin/activate
@@ -88,6 +88,6 @@ Python · PyTorch · scikit-learn · pandas · NumPy · yfinance · Matplotlib
 
 **Nassim Sellal** : étudiant en Mastère Big Data & IA (Sup de Vinci Bordeaux) et en Master Intelligence Économique, à la recherche d'une alternance Data Analyst / Data Engineer / Data Scientist.
 
-[LinkedIn](https://www.linkedin.com/in/<ton-profil>)
+[LinkedIn](https://www.linkedin.com/in/nassim-sellal-28ba8a2b4/)
 
 *Tutoriel d'origine : NeuralNine, « Stock Price Prediction in Python with PyTorch ».*
